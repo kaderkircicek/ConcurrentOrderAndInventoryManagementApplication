@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriSayfasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriSepetOnaylama .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriSiparisDurumu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriSiparisVerme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YoneticiGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YoneticiSayfasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YoneticiSiparisOnaylama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YoneticiStokGoruntuleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YoneticiUrunEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YoneticiUrunGuncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YöneticiLogGoruntuleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
